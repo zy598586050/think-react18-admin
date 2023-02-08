@@ -66,4 +66,4 @@
 ├── package.json
 ```
 
-![image](​https://github.com/zy598586050/think-react18-admin/blob/master/public/login​.png)
+![image](https://github.com/zy598586050/think-react18-admin/blob/master/public/login.png)
